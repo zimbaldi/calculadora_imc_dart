@@ -67,6 +67,4 @@ void execute() {
   }
 
   print("O IMC de $nome é: $imc. Sua classificação é $classificacaoImc.");
-
-  //Criar condiçoes de faixas de peso: normal, magro, obeso...
 }
